@@ -1,6 +1,6 @@
 # Git Conflict Calculator
 
-Description: A simple calculator project.
+Description: A Python tool for quick add and subtract operations.
 
 ## Usage
 Run: python calculator.py
